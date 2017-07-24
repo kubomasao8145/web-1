@@ -1,1 +1,29 @@
+charset "UTF-8"; 
+
+body{
+     background-color: #5f9ea0;
+ 
+     }
+
+header{
+  background-color:blue;
+      position: fixed;
+      left:0;
+      top:0;
+      width: 120%;
+      z-index:+1;
+}
+     
+aside{
+  background-color:gray;
+  width:150px;
+  float:right;
+      position: relative;
+      top: 20px;
+      right: 15px;
+}
+footer{
+  background-color:gray;
+  clear:both;
+}
 
